@@ -101,3 +101,7 @@ google.com - 5 min
 github.com - 3 min
 
 ## final output
+
+![Image](https://github.com/user-attachments/assets/66b50feb-fc48-4b91-a31d-9fd4fe54422f)
+
+![Image](https://github.com/user-attachments/assets/159f6ce1-dab6-4235-8a61-81e6b59b6787)
